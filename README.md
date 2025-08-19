@@ -15,7 +15,8 @@ The project includes **data cleaning, exploratory data analysis (EDA), machine l
    - Random Forest Classifier  
    → Compared accuracy, precision, recall, and ROC-AUC.  
 5. **Feature Importance** – Identified key factors influencing churn (e.g., tenure, contract type, payment method).  
-6. **Export for Power BI** – Final processed CSV generated for dashboard visualization.  
+6. **Export for Power BI** – Final processed CSV generated for dashboard visualization.
+7. **Link** - Churn Analysis_googlecollab
 
 ---
 
